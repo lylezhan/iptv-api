@@ -89,12 +89,3 @@ Ningxia Satellite Channel (576p),http://39.134.115.163:8080/PLTV/88888910/224/32
 Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 Qianjiang Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169
 Qinghai TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
-Shandong Satellite TV (720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
-Shandong TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-Shandong TV Agricultural Science Channel (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
